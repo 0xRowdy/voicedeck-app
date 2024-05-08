@@ -1,6 +1,7 @@
 {
   "name": "voicedeck",
   "version": "0.1.0",
+  "node": "v20.6.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
