@@ -1,6 +1,7 @@
 {
   "name": "voicedeck",
   "version": "0.1.0",
+  "packageManager": "bun@1.1.7",
   "node": "v20.6.0",
   "private": true,
   "scripts": {
